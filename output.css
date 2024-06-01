@@ -612,6 +612,11 @@ video {
   background-color: rgb(37 99 235 / var(--tw-bg-opacity));
 }
 
+.bg-blue-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(29 78 216 / var(--tw-bg-opacity));
+}
+
 .bg-\[url\(\'\/img\/backgroundpesbaweb\.png\'\)\] {
   background-image: url('/img/backgroundpesbaweb.png');
 }

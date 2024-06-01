@@ -615,6 +615,10 @@ video {
   background-image: url('/backgroundpesbaweb.png');
 }
 
+.bg-\[url\(\'\.\/backgroundpesbaweb\.png\'\)\] {
+  background-image: url('./backgroundpesbaweb.png');
+}
+
 .from-\[\#0715d3\] {
   --tw-gradient-from: #0715d3 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(7 21 211 / 0) var(--tw-gradient-to-position);
